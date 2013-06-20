@@ -14,4 +14,4 @@ Install:
 
 Sample:
 
-![alt tag](https://github.com/Cipa/select-checkbox-combo/blob/master/assets/tvs/select-checkbox-combo/sample.png)
+![See example](https://github.com/Cipa/select-checkbox-combo/blob/master/assets/tvs/select-checkbox-combo/sample.png)
